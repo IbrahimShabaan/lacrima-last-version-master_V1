@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "473379040101",
+    "project_id": "lacrima2",
+    "storage_bucket": "lacrima2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473379040101:android:e4b9dc828ea3ccffe90f8c",
+        "android_client_info": {
+          "package_name": "com.Lacrima.lacrima"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "473379040101-rgqrkcjja22gs3uk7iltdtvpm80le1do.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBw0d9aOEnTUwPKZFpR7maOJGgv3JPPmt8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "473379040101-rgqrkcjja22gs3uk7iltdtvpm80le1do.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "473379040101-j0drvrss1mr085ldsmns91003d2mjnuc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.lacrima.lacrima"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473379040101:android:38cc980e37df96fae90f8c",
+        "android_client_info": {
+          "package_name": "com.lacrima.lacrima"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "473379040101-rgqrkcjja22gs3uk7iltdtvpm80le1do.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBw0d9aOEnTUwPKZFpR7maOJGgv3JPPmt8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "473379040101-rgqrkcjja22gs3uk7iltdtvpm80le1do.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "473379040101-j0drvrss1mr085ldsmns91003d2mjnuc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.lacrima.lacrima"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
